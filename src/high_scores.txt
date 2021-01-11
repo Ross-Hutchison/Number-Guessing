@@ -1,0 +1,16 @@
+easy,barbara,6
+medium,Ross,6
+hard,meands,2
+masochist,rossIsSad,1
+
+
+
+
+
+
+
+
+
+
+
+
